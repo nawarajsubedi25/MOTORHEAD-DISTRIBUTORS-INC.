@@ -1,0 +1,2 @@
+# MOTORHEAD-DISTRIBUTORS-INC.
+we analyzed and went through the audit process for The MotorHead Distributors Inc. located in Iowa. After carefully analyzing the general company overview, the audit reports, and the network setup for the company, we have prepared a detailed report on the overall Information setup for the company. This includes analysis about the current network setups, good implementations on it, and what can be done to make it more safe, secure and effective.
